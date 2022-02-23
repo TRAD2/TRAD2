@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TRAD2
-- 👀 I’m interested in changing the world...But first me i giss.
+- 👀 I’m interested in changing the world...But first me i guess.
 - 🌱 I’m currently learning php & mysql
 - 📫 How to reach me ... DO NOT!
 
